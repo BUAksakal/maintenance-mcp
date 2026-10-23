@@ -1,0 +1,15 @@
+# Python'un otomatik ürettiği dosyalar
+__pycache__/
+*.pyc
+
+# Sanal ortam
+.venv/
+
+# Gizli bilgiler (API anahtarları)
+.env
+
+# İndirilen veri setleri (git'e girmez, script ile indirilir)
+data/
+
+# macOS'un ürettiği dosyalar
+.DS_Store
